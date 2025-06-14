@@ -1,6 +1,6 @@
 #  Student Record Management System in C
 
-- **Submitted by:** `VARSHA RANI`  
+- **Name:** `VARSHA RANI`  
 - **Company:** `CODTECH IT SOLUTIONS`  
 - **ID:** `CT04DF280`  
 - **Domain:** `C Programming`  
